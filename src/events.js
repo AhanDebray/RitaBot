@@ -50,7 +50,7 @@ exports.listen = function listen (client)
             "maxMulti": 6,
             "maxTasksPerChannel": 15,
             "translateCmd": "!translate",
-            "translateCmdShort": "!tr",
+            "translateCmdShort": "something",
             "version": botVersion
          };
 
